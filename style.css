@@ -1,0 +1,113 @@
+body  {
+		  margin: 0;
+		  
+		  }
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+h1  {
+  font-size:60px;
+  font-family: 'Sunflower', sans-serif;
+  color: white;
+  text-shadow: 2px 2px black;
+  }
+h2 {
+  font-size:40px;
+  font-family: 'Sunflower', sans-serif;
+  color: white;
+  text-shadow: 2px 2px black;
+  }
+h3 {
+  font-size:20px;
+  font-family: 'Sunflower', sans-serif;
+  color: white;
+  } 
+  
+ a{
+	font-size:20px;
+	font-family: 'Sunflower', sans-serif;
+	color: white;
+	text-decoration:none;
+	padding: 20px;
+			 
+ }
+		
+.menu{
+	height:60px;
+	background-color: black;
+	position:fixed;
+	width:100%;
+
+	
+}
+.homeHeader{
+	background-image: url("header image.jpg");
+	height: 100%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+			
+	text-align:center;
+	font-size: 20px;
+	padding-top:50px;
+	padding-bottom: 40px;
+  }
+  
+.homeHeader img{
+  padding: 20px;
+  width: 15%;
+  
+} 
+.pagesHeader{
+	background-image: url("header image.jpg");
+	height: 50%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+			
+	text-align:center;
+	font-size: 20px;
+	padding-top:40px;
+	padding-bottom: 10px;
+  }
+.about-me {
+  padding: 20px;
+  background-color: #b1b1cd;
+  color: white;
+  text-align: center;
+}
+
+.highlights {
+  padding-top:200px;
+  padding: 20px;
+  background-color: #b1b1cd;
+  color: black;
+  min-height: 400px;
+  text-align: center;
+}
+
+.about-me ul{
+	text-align: left;
+	list-style-position: inside;
+	padding-left:100px;
+}
+	
+.footer{
+  
+  padding: 20px;
+  background-color: black;
+  text-align: center;
+}
+
+.footer p{
+	font-size: 12pt;
+	color: white;			
+}
+
+.credits p {
+	font-size:4pt;
+	text-align:right;
+	}
